@@ -1,19 +1,24 @@
 - name: Software Engineer Keywords
   keywords:
       - Java
-      - C++
+      - C
       - Python
-      - Design Patterns
+      - a little Vue.js
+      - .....
 
-- name: Mobile Developer Keywords
+- name: Mobile test Keywords
   keywords:
       - Android
-      - Reverse Engineering
+      - iOS
+      - Web
+      - .....
 
-- name: Windows Developer Keywords
+- name: tools or understand Keywords
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Jmeter
+      - postman
+      - flink
+      - docker
+      - performance
+      - Selenium/Appium
+      - .....
